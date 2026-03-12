@@ -1,0 +1,16 @@
+{
+  "name": "iMac On Table #1",
+  "browser": {
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "deviceScaleFactor": 2,
+    "isMobile": false
+  },
+  "compositing": {
+    "x": 579,
+    "y": 291,
+    "width": 1199,
+    "height": 682,
+    "layering": "under"
+  }
+}
