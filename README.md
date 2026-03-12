@@ -20,6 +20,8 @@ A blazing-fast, Node.js-based CLI tool that automatically captures high-resoluti
 * **Node.js** (v18 or higher recommended)
 * **Git**
 
+---
+
 ### Setup
 
 1. Clone this repository or download the source code.
@@ -103,11 +105,11 @@ Here is the required blueprint for your `config.json`:
 
 #### Configuration Guide:
 
-* **`viewportWidth` & `viewportHeight**`: The size of the browser window Puppeteer will open.
+* **`viewportWidth` & `viewportHeight**`**: The size of the browser window Puppeteer will open.
 * **`deviceScaleFactor`**: Set to `2` or `3` for Retina/High-Res screenshots. `1` for standard resolution.
 * **`isMobile`**: Set to `true` if you are mapping a phone mockup to force mobile layouts.
-* **`x` & `y**`: The exact pixel coordinates (from the top-left of your template) where the transparent screen hole begins.
-* **`width` & `height**`: The exact dimensions of the transparent screen hole.
+* **`x` & `y`**: The exact pixel coordinates (from the top-left of your template) where the transparent screen hole begins.
+* **`width` & `height`**: The exact dimensions of the transparent screen hole.
 
 ---
 
