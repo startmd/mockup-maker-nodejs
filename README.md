@@ -18,7 +18,9 @@ A blazing-fast, Node.js-based CLI tool that automatically captures high-resoluti
 ### Prerequisites
 
 * **Node.js** (v18 or higher recommended)
-* **Git** ### Setup
+* **Git**
+
+### Setup
 
 1. Clone this repository or download the source code.
 2. Open your terminal and navigate to the project directory:
